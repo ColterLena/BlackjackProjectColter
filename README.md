@@ -1,4 +1,4 @@
-# BlackjackProjectColter
+# Blackjack: A C# and .NET App
 In this project, you are creating a playable game of
 [Blackjack](https://en.wikipedia.org/wiki/Blackjack). If you haven't played this
 game ever, or in a while, grab a deck of cards and play a few games.
